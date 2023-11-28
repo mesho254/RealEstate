@@ -11,7 +11,7 @@ dotenv.config();
 mongoose
   .connect("mongodb+srv://meshakotieno343:LUiplLlI7iIoFMTy@cluster0.ibpfuq3.mongodb.net/?retryWrites=true&w=majority")
   .then(() => {
-    console.log('Connected to MongoDB!');
+    console.log('Connected to MongoDB!!');
   })
   .catch((err) => {
     console.log(err);
