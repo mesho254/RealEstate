@@ -5,12 +5,13 @@ import { initializeApp } from 'firebase/app';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: 'mern-estate.firebaseapp.com',
-  projectId: 'mern-estate',
-  storageBucket: 'mern-estate.appspot.com',
-  messagingSenderId: '1078482850952',
-  appId: '1:1078482850952:web:28f19139ab77246602fb3d',
+  apiKey: "AIzaSyAqgBGLC1Mzjss3HPdRUiNOUlFfB50G_F0",
+  authDomain: "whatsapp-clone-dc953.firebaseapp.com",
+  projectId: "whatsapp-clone-dc953",
+  storageBucket: "whatsapp-clone-dc953.appspot.com",
+  messagingSenderId: "527807297307",
+  appId: "1:527807297307:web:f5764620a00cd98e7bc5be",
+  measurementId: "G-54R8VPV4RV"
 };
 
 // Initialize Firebase
